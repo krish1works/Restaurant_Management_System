@@ -1,7 +1,5 @@
 # Prerequisites
-*.d
-
-# Object files
+*.d geda khaaaa
 *.o
 *.ko
 *.obj
